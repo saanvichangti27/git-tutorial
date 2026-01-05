@@ -1,4 +1,4 @@
 this is my first project
 author - saanvi
 
-tag added
+create an avatar for user 
